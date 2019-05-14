@@ -24,5 +24,3 @@ Function DateStamp-File
     "Renaming $($FileData.Name) to $NewFile "
     Rename-Item -Path $FileName -NewName $NewFile
  }
- 
- 
